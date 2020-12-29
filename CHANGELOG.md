@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.38.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.38.0...v1.38.1) (2020-12-29)
+
+
+### Documentation
+
+* BOM 15.0.0 ([#1177](https://www.github.com/googleapis/google-http-java-client/issues/1177)) ([125a697](https://www.github.com/googleapis/google-http-java-client/commit/125a697c5cb5535894e46fd59e73663c50f3a6fa))
+
+
+### Dependencies
+
+* update guava to 30.1-android ([#1199](https://www.github.com/googleapis/google-http-java-client/issues/1199)) ([7922dc0](https://www.github.com/googleapis/google-http-java-client/commit/7922dc0517bd82669a18b81af38e5ba211bc2e0b))
+
 ## [1.38.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.37.0...v1.38.0) (2020-11-02)
 
 
